@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>🌈 Story Summarizer</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="container">
+    <h1>🌈 Story Summarizer</h1>
+
+    <textarea id="inputText" placeholder="Write your story here..."></textarea>
+
+    <button onclick="summarizeText()">✨ Summarize</button>
+
+    <div class="result">
+        <h3>📄 Summary:</h3>
+        <p id="output">Your summary will appear here...</p>
+    </div>
+</div>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+
+</body>
+</html>
