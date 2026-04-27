@@ -170,3 +170,6 @@ The sample files are included in [samples/sample_input.txt](/C:/Users/yaraa/OneD
 
 ## Update 1
 This is the first update.
+
+## Update 2
+This is the second update.
