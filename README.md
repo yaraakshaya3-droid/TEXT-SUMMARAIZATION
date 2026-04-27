@@ -185,3 +185,6 @@ This is the fifth update.
 
 ## Update 6
 This is the sixth update.
+
+## Update 7
+This is the seventh update.
