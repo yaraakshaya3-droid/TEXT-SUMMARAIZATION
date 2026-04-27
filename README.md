@@ -167,3 +167,6 @@ The sample files are included in [samples/sample_input.txt](/C:/Users/yaraa/OneD
 - Speech input depends on browser support for the Web Speech API.
 - Summary history is stored locally in the browser, not on the server.
 - The backend rejects summaries that are not shorter than the original input.
+
+## Update 1
+This is the first update.
