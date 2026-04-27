@@ -188,3 +188,6 @@ This is the sixth update.
 
 ## Update 7
 This is the seventh update.
+
+## Update 8
+This is the eighth update.
